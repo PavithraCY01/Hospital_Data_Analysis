@@ -1,21 +1,15 @@
 # Hospital_Data_Analysis
 Data Analysis Project using Power BI
 
-# 🏥 Hospital Patient Visit Data Analysis (SQL & Power BI)
-
 ## 📌 Project Overview
-This project focuses on analyzing **hospital patient visit data** using **SQL** for data querying and **Power BI** for visualization.  
-The goal is to extract meaningful insights such as patient severity trends, department workload, admission patterns, and high-risk cases.
+This project focuses on analyzing **hospital patient visit data** using **SQL** for data querying and **Power BI** for visualization. It includes:
 
-This project is designed to demonstrate **real-world data analysis skills** suitable for entry-level **Data Analyst roles**.
-
----
-
-## 🛠 Tools & Technologies Used
-- **SQL** (MySQL / PostgreSQL compatible)
-- **Power BI Desktop**
-- **Excel / CSV**
-- **GitHub**
+- SQL querying & filtering
+- Aggregations and grouping
+- Data cleaning & structuring
+- Power BI data modeling
+- Dashboard design & storytelling
+- GitHub documentation
 
 ---
 
@@ -38,4 +32,18 @@ The dataset contains **55 hospital patient visit records** with the following co
 
 ---
 
+## 🛠 Tools & Technologies Used
+- **MySQL**
+- **Power BI Desktop**
+- **Microsoft Word (for documentation)**
 
+##🎯Business Questions Answered
+
+- How many patient visits occurred overall?
+- Which departments receive the most patients?
+- Which doctors handle the highest number of visits?
+- How many high-severity cases exist?
+- What is the admission vs outpatient ratio?
+- Which departments have the most critical patients?
+
+- What are daily patient visit trends?
