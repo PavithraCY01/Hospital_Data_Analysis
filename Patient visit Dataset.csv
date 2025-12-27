@@ -1,0 +1,56 @@
+visit_id,patient_id,patient_name,age,gender,department,doctor,visit_date,diagnosis,severity,admission_status
+1001,P001,Ahmed Ali,32,M,Cardiology,Dr. Mathews,1/2/2023,Chest Pain,High,Admitted
+1002,P002,Sara Khan,27,F,Dermatology,Dr. Noor,1/3/2023,Acne,Low,Outpatient
+1003,P003,John Paul,45,M,Orthopedics,Dr. Raman,1/3/2023,Back Pain,Medium,Outpatient
+1004,P004,Leila Hassan,38,F,ENT,Dr. Sameer,1/4/2023,Sinusitis,Low,Outpatient
+1005,P005,Ravi Kumar,29,M,General Medicine,Dr. Nisha,1/4/2023,Flu,Low,Outpatient
+1006,P006,Emily Chen,41,F,Cardiology,Dr. Mathews,1/5/2023,Hypertension,Medium,Admitted
+1007,P007,Fatima Noor,36,F,Gynecology,Dr. Reema,1/5/2023,PCOD,Medium,Outpatient
+1008,P008,Hamid Zaki,50,M,Neurology,Dr. Joseph,1/6/2023,Migraine,Low,Outpatient
+1009,P009,George Mathew,61,M,Cardiology,Dr. Mathews,1/6/2023,Arrhythmia,High,Admitted
+1010,P010,Aisha Omar,22,F,General Medicine,Dr. Nisha,1/6/2023,Fever,Low,Outpatient
+1011,P011,David Brown,33,M,Orthopedics,Dr. Raman,1/7/2023,Fracture,High,Admitted
+1012,P012,Nadia Sherif,49,F,ENT,Dr. Sameer,1/7/2023,Tonsillitis,Low,Outpatient
+1013,P013,Arun Kumar,42,M,Neurology,Dr. Joseph,1/7/2023,Seizure,High,Admitted
+1014,P014,Meera Nair,28,F,Dermatology,Dr. Noor,1/8/2023,Allergy,Low,Outpatient
+1015,P015,James Lee,57,M,Cardiology,Dr. Mathews,1/8/2023,Heart Failure,High,Admitted
+1016,P016,Noor Fathima,31,F,Gynecology,Dr. Reema,1/8/2023,Pregnancy Check,Low,Outpatient
+1017,P017,Ali Hassan,48,M,General Medicine,Dr. Nisha,1/9/2023,Diabetes,Medium,Outpatient
+1018,P018,Clara Joseph,52,F,Neurology,Dr. Joseph,1/9/2023,Stroke,High,Admitted
+1019,P019,Sam Wilson,35,M,Orthopedics,Dr. Raman,1/9/2023,Knee Pain,Medium,Outpatient
+1020,P020,Reema Sadiq,26,F,ENT,Dr. Sameer,1/10/2023,Ear Infection,Low,Outpatient
+1021,P021,Mark Pinto,40,M,Dermatology,Dr. Noor,1/10/2023,Rash,Low,Outpatient
+1022,P022,Nour Ahmed,54,F,Cardiology,Dr. Mathews,1/10/2023,Angina,High,Admitted
+1023,P023,Tom Black,33,M,General Medicine,Dr. Nisha,1/11/2023,Cold,Low,Outpatient
+1024,P024,Salma Issa,60,F,Gynecology,Dr. Reema,1/11/2023,Menopause Issues,Medium,Outpatient
+1025,P025,Harish Kumar,46,M,Neurology,Dr. Joseph,1/11/2023,Nerve Pain,Medium,Outpatient
+1026,P026,Maria Lopez,30,F,Orthopedics,Dr. Raman,1/12/2023,Shoulder Pain,Low,Outpatient
+1027,P027,Khalid Yusuf,55,M,Cardiology,Dr. Mathews,1/12/2023,Heart Block,High,Admitted
+1028,P028,Anita Sharma,34,F,Dermatology,Dr. Noor,1/12/2023,Eczema,Medium,Outpatient
+1029,P029,Steve John,43,M,General Medicine,Dr. Nisha,1/13/2023,Throat Infection,Low,Outpatient
+1030,P030,Sana Khan,25,F,Dermatology,Dr. Noor,1/13/2023,Pimples,Low,Outpatient
+1031,P031,Jacob Miller,58,M,Cardiology,Dr. Mathews,1/14/2023,Cardiac Arrest,High,Admitted
+1032,P032,Rehan Ahmed,46,M,Neurology,Dr. Joseph,1/14/2023,Paralysis,High,Admitted
+1033,P033,Shreya Patel,37,F,ENT,Dr. Sameer,1/14/2023,Thyroid Issue,Medium,Outpatient
+1034,P034,Michael Long,29,M,Orthopedics,Dr. Raman,1/15/2023,Sprain,Low,Outpatient
+1035,P035,Nourah Sami,51,F,Gynecology,Dr. Reema,1/15/2023,Hormone Issue,Medium,Outpatient
+1036,P036,Peter Chen,62,M,Cardiology,Dr. Mathews,1/15/2023,Valve Disease,High,Admitted
+1037,P037,Rahul Das,39,M,General Medicine,Dr. Nisha,1/16/2023,Asthma,Medium,Outpatient
+1038,P038,Nisha Noor,45,F,Neurology,Dr. Joseph,1/16/2023,Psychosis,High,Admitted
+1039,P039,Karen Rose,33,F,Dermatology,Dr. Noor,1/16/2023,Skin Infection,Medium,Outpatient
+1040,P040,Salman Irfan,52,M,Cardiology,Dr. Mathews,1/17/2023,Chest Tightness,High,Admitted
+1041,P041,Jessica Diaz,36,F,ENT,Dr. Sameer,1/17/2023,Allergy,Low,Outpatient
+1042,P042,Abdul Rahman,48,M,Orthopedics,Dr. Raman,1/17/2023,Arthritis,Medium,Outpatient
+1043,P043,Anu Shenoy,27,F,Gynecology,Dr. Reema,1/18/2023,UTI,Medium,Outpatient
+1044,P044,Victor Abu,63,M,General Medicine,Dr. Nisha,1/18/2023,Blood Pressure,High,Admitted
+1045,P045,Mehreen Ali,29,F,Dermatology,Dr. Noor,1/18/2023,Psoriasis,Medium,Outpatient
+1046,P046,Omar Saeed,57,M,Neurology,Dr. Joseph,1/19/2023,Memory Loss,Medium,Outpatient
+1047,P047,Shalini Das,42,F,ENT,Dr. Sameer,1/19/2023,Voice Issue,Low,Outpatient
+1048,P048,Kevin Moore,34,M,Orthopedics,Dr. Raman,1/19/2023,Joint Pain,Low,Outpatient
+1049,P049,Lydia Frank,55,F,Cardiology,Dr. Mathews,1/20/2023,Stroke Risk,High,Admitted
+1050,P050,Anwar Ali,31,M,General Medicine,Dr. Nisha,1/20/2023,Allergy,Low,Outpatient
+1051,P051,Grace Pinto,47,F,Dermatology,Dr. Noor,1/20/2023,Sunburn,Low,Outpatient
+1052,P052,Imran Khan,44,M,Neurology,Dr. Joseph,1/21/2023,Headache,Low,Outpatient
+1053,P053,Sneha Bose,26,F,Gynecology,Dr. Reema,1/21/2023,Irregular Periods,Medium,Outpatient
+1054,P054,Chris James,58,M,Cardiology,Dr. Mathews,1/21/2023,Heart Pain,High,Admitted
+1055,P055,Anita Roy,40,F,ENT,Dr. Sameer,1/22/2023,Cold,Low,Outpatient
