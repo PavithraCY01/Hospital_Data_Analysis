@@ -32,12 +32,13 @@ The dataset contains **55 hospital patient visit records** with the following co
 
 ---
 
-## 🛠 Tools & Technologies Used
-- **MySQL**
-- **Power BI Desktop**
-- **Microsoft Word (for documentation)**
+## 🔧 Data Preparation Steps
+- Calculated Total Patient visits  
+- Formatted visit_date column into proper DateTime format  
 
-##🎯Business Questions Answered
+---
+
+## 🎯Business Questions Answered
 
 - How many patient visits occurred overall?
 - Which departments receive the most patients?
@@ -45,5 +46,30 @@ The dataset contains **55 hospital patient visit records** with the following co
 - How many high-severity cases exist?
 - What is the admission vs outpatient ratio?
 - Which departments have the most critical patients?
-
 - What are daily patient visit trends?
+
+---
+
+## 🛠 Tools & Technologies Used
+- **MySQL**
+- **Power BI Desktop**
+- **Microsoft Word (for documentation)**
+
+---
+
+## 📊 Key Skills Demonstrated
+
+- **The analysis was conducted using structured SQL queries focusing on:**
+- Aggregation (COUNT, GROUP BY)
+- Filtering (WHERE clause)
+- Sorting (ORDER BY)
+- Trend analysis (date-based grouping). 
+- **Visualization & Insight Generation**
+- **Professional Documentation**
+
+---
+
+## ✅ Conclusion
+This professional mini project demonstrates a **hospital patient visit data** using **SQL** and **Power BI**.
+
+---
